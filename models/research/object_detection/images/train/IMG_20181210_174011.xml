@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20181210_174011.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20181210_174011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shampoo-Lemon 3.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>41</ymin>
+			<xmax>855</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shampoo-Clear 4.7$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>104</ymin>
+			<xmax>670</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shampoo-green 4.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>31</ymin>
+			<xmax>508</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

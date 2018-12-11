@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>IMG_20181210_121653.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20181210_121653.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>match-sticks .90$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>234</ymin>
+			<xmax>378</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Toothpaste-F 1.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>125</ymin>
+			<xmax>334</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

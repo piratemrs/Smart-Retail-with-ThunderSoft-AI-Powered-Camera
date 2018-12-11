@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20181210_180018.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\IMG_20181210_180018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shampoo-green 4.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>53</ymin>
+			<xmax>729</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shampoo-Lemon 3.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>46</ymin>
+			<xmax>449</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>match-sticks .90$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>198</ymin>
+			<xmax>157</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

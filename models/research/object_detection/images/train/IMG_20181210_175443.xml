@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20181210_175443.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20181210_175443.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shampoo-Lemon 3.5$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>53</ymin>
+			<xmax>1245</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Toothpaste-Closeup 3.04$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>47</ymin>
+			<xmax>579</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>match-sticks .90$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>222</ymin>
+			<xmax>551</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shampoo-Clear 4.7$</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>420</ymin>
+			<xmax>606</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>
